@@ -35,7 +35,7 @@ yarn dev
 
 ### Explorer Preview
 *Explorer Preview.*
-![Local Image](/public/preview.png)
+![preview](https://github.com/user-attachments/assets/7cd16c38-854f-4a65-af06-fc016583cb69)
 
 
 ### Github Repository
